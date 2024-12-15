@@ -1,6 +1,11 @@
+ 
+
+ 
 
 <?php
 //this file edited by hussain
+ //this edited by Abbas Jreou
+
 $output = "this.pdfMake = this.pdfMake || {}; this.pdfMake.vfs = {";
 $phpDir = dir('.');
 
